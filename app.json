@@ -8,19 +8,19 @@
 		"python",
 		"telethon"
 	],
-	"repository": "https://github.com/Source-Ze/temp",
+	"repository": "https://github.com/Asaaq-ali/rask",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
-            "value": ""
+            "value": "6705423830:AAHAV7E1fq3-uBQeVNsjkVam8azxOoss2wQ"
         },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org",
-            "value": ""
+            "value": "28450951"
         },
         "APP_ID": {
             "description": "Your APP ID from my.telegram.org",
-            "value": ""
+            "value": "86ecdb94b4dade3baa295fa3d9459106"
 	   }
 	},
 	"buildpacks": [
